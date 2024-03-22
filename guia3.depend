@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1711141404 source:c:\users\steph\downloads\evaluacion1.nicole\guia3\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Abono.h"
+	"Cuenta.h"
+	"stdlib.h"
+
+1711141664 c:\users\steph\downloads\evaluacion1.nicole\guia3\include\cliente.h
+	<string.h>
+
+1711141641 c:\users\steph\downloads\evaluacion1.nicole\guia3\include\abono.h
+	"Fecha.h"
+
+1711141708 c:\users\steph\downloads\evaluacion1.nicole\guia3\include\fecha.h
+
+1711141688 c:\users\steph\downloads\evaluacion1.nicole\guia3\include\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
